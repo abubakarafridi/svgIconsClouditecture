@@ -1,0 +1,36 @@
+<svg 
+    width="48" 
+    height="48" 
+    xmlns="http://www.w3.org/2000/svg" 
+    viewBox="0 0 32 30"
+>
+    <g>
+        <!-- Top line -->
+        <path 
+            d="M 3 4.99 L 3 2 L 29 2 L 29 4.99" 
+            fill="rgb(241, 243, 244)" 
+            stroke="rgb(0, 0, 0)" 
+            stroke-width="1.3" 
+        />
+        <!-- Vertical container outline -->
+        <path 
+            d="M 3 4.99 L 3 28 L 29 28 L 29 4.99" 
+            fill="none" 
+            stroke="rgb(0, 0, 0)" 
+            stroke-width="1.3" 
+        />
+        <!-- Text label -->
+        <text 
+            x="16" 
+            y="15" 
+            font-family="Helvetica" 
+            font-size="2" 
+            fill="rgb(0, 0, 0)" 
+            text-anchor="start" 
+            alignment-baseline="middle" 
+            font-weight="bold"
+        >
+            Vertical Container
+        </text>
+    </g>
+</svg>

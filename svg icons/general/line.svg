@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="left: 1px; top: 1px; width: 48px; height: 48px; display: block; position: relative; overflow: hidden; pointer-events: none;" viewBox="0 0 32 30">
+  <!-- First Path (White Stroke) -->
+  <path d="M 2.48 27.98 L 28.99 1.48" 
+        fill="none" stroke="white" stroke-width="9.3" stroke-miterlimit="10" style="pointer-events: none;" />
+  
+  <!-- Second Path (Black Stroke) -->
+  <path d="M 2.48 27.98 L 28.99 1.48" 
+        fill="none" stroke="rgb(0, 0, 0)" stroke-width="1.3" stroke-miterlimit="10" style="pointer-events: none;" />
+</svg>

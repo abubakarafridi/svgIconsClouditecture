@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="48" height="48" viewBox="0 0 32 30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangles -->
+  <rect x="1" y="7.5" width="30" height="15" fill="none" stroke="white" stroke-width="9" visibility="hidden"/>
+  <rect x="1" y="7.5" width="30" height="15" fill="none" stroke="none"/>
+
+  <!-- Text -->
+  <foreignObject x="0" y="7.5" width="32" height="15">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; justify-content: center; height: 100%; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0);">
+      Text
+    </div>
+  </foreignObject>
+</svg>
